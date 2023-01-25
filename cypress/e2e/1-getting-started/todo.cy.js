@@ -10,7 +10,7 @@ describe('example to-do app', () => {
     it('displays two todo items by default', () => {
       // We use the `cy.get()` command to get all elements that match the selector.
       // Then, we use `should` to assert that there are two matched items,
-      // which are the two default items.
+      // which are the two default it
       cy.get('.todo-list li').should('have.length', 2)
   
       // We can go even further and check that the default todos each contain
