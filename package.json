@@ -1,0 +1,22 @@
+{
+  "name": "desktop-tutorial",
+  "version": "1.0.0",
+  "description": "Hello! I created this project to practice my API testing skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TetianaPerinha/desktop-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TetianaPerinha/desktop-tutorial/issues"
+  },
+  "homepage": "https://github.com/TetianaPerinha/desktop-tutorial#readme",
+  "dependencies": {
+    "cypress": "^12.4.0"
+  }
+}
