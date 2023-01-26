@@ -18,5 +18,8 @@
   "homepage": "https://github.com/TetianaPerinha/desktop-tutorial#readme",
   "dependencies": {
     "cypress": "^12.4.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
   }
 }
